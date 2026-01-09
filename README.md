@@ -1,18 +1,24 @@
 ## Hi, I'm Aarush 👋
-Aspiring Software Engineer | ML & Systems Enthusiast
+Aspiring Researcher in AI, Machine Learning & Quantum Computing
 
-🔹 Interested in Machine Learning, Robotics, and Backend Systems  
-🔹 Strong in Python, C++, JavaScript  
-🔹 Focused on building real-world, applied projects  
+I’m focused on understanding and building intelligent systems, 
+with interests spanning classical ML, deep learning, and quantum algorithms.
 
-### 🚀 Featured Work
-- Machine Learning Portfolio – applied ML notebooks & experiments
-- SHL Assessment Recommender – ML-based recommendation system
-- Quantum Token – Python-based cryptography experiment
+### 🔬 Research Interests
+- Machine Learning & Deep Learning
+- Quantum Computing & Quantum Machine Learning
+- Optimization & Probabilistic Models
+- AI for Scientific Discovery
 
-### 🧠 Tech Stack
-Python | C++ | JavaScript | Jupyter | Git | Linux
+### 🧪 Current Focus
+- Classical ML experiments & benchmarks
+- Quantum algorithms using Qiskit
+- Bridging ML concepts with quantum computation
 
-### 📫 Connect
-GitHub: @Hadar01  
-Email: hadartink01@gmail.com
+### 🧠 Tools & Languages
+Python, C++, Qiskit, PyTorch, NumPy, Jupyter, Git
+
+### 📫 Contact
+Email: aarushpandey820@gmail.com
+
+GitHub: @Hadar01
