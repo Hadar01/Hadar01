@@ -28,3 +28,4 @@ Email: aarushpandey820@gmail.com
 Portfolio: aarushpandey.dev
 
 GitHub: @Hadar01
+![](https://komarev.com/ghpvc/?Hadar01)
