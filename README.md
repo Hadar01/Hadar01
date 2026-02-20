@@ -14,11 +14,17 @@ with interests spanning classical ML, deep learning, and quantum algorithms.
 - Classical ML experiments & benchmarks
 - Quantum algorithms using Qiskit
 - Bridging ML concepts with quantum computation
+  
+###  Projects
+- scirag.ryuk.live
+- writeai.vercel.app
+- qblog.ryuk.live
 
 ### 🧠 Tools & Languages
 Python, C++, Qiskit, PyTorch, NumPy, Jupyter, Git
 
 ### 📫 Contact
 Email: aarushpandey820@gmail.com
+Portfolio: aarushpandey.dev
 
 GitHub: @Hadar01
