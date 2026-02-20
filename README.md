@@ -18,7 +18,7 @@ with interests spanning classical ML, deep learning, and quantum algorithms.
 ###  Projects
 - [scirag.ryuk.live](https://scirag.ryuk.live/)
 - [writeai.vercel.app](https://writeeai.vercel.app/)
-- [qblog.ryuk.live](https://ryuk.live/)
+- [ryuk.live](https://ryuk.live/)
 
 ### 🧠 Tools & Languages
 Python, C++, Qiskit, PyTorch, NumPy, Jupyter, Git
