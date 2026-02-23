@@ -25,7 +25,8 @@ Python, C++, Qiskit, PyTorch, NumPy, Jupyter, Git
 
 ### 📫 Contact
 Email: aarushpandey820@gmail.com
-Portfolio: aarushpandey.dev
+
+Portfolio: [aarushpandey.dev](https://aarushpandey.dev/)
 
 GitHub: @Hadar01
 ![](https://komarev.com/ghpvc/?username=Hadar01)
