@@ -30,3 +30,11 @@ Portfolio: [aarushpandey.dev](https://aarushpandey.dev/)
 
 GitHub: @Hadar01
 ![](https://komarev.com/ghpvc/?username=Hadar01)
+
+## 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hadar01/Hadar01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hadar01/Hadar01/output/github-contribution-grid-snake.svg">
+  <img alt="Hadar01's github contribution snake" src="https://raw.githubusercontent.com/Hadar01/Hadar01/output/github-contribution-grid-snake.svg">
+</picture>
