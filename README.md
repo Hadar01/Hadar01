@@ -1,40 +1,43 @@
-## Hi, I'm Aarush 👋
-Aspiring Researcher in AI, Machine Learning & Quantum Computing
+# Aarush Pandey — @Hadar01
 
-I’m focused on understanding and building intelligent systems, 
-with interests spanning classical ML, deep learning, and quantum algorithms.
+**Quantum Computing Researcher & ML Engineer**  
+Qiskit Advocate @IBM · B.Tech CSE '26 · GATE CS 2026 Qualified
 
-### 🔬 Research Interests
-- Machine Learning & Deep Learning
-- Quantum Computing & Quantum Machine Learning
-- Optimization & Probabilistic Models
-- AI for Scientific Discovery
+---
 
-### 🧪 Current Focus
-- Classical ML experiments & benchmarks
-- Quantum algorithms using Qiskit
-- Bridging ML concepts with quantum computation
-  
-###  Projects
-- [scirag.ryuk.live](https://scirag.ryuk.live/)
-- [writeai.vercel.app](https://writeeai.vercel.app/)
-- [ryuk.live](https://ryuk.live/)
+### 🔬 What I'm working on
 
-### 🧠 Tools & Languages
-Python, C++, Qiskit, PyTorch, NumPy, Jupyter, Git
+- **Uncertainty Quantification in Medical Imaging** — Calibration under distribution shift, CheXpert dataset, ResNet-50 + MC Dropout + temperature scaling (ECE/NLL/Brier Score)
+- **Quantum Supply Chain Optimizer** — QAOA, ZNE, Circuit Cutting on Fujitsu FX700 (64+ qubits)
+- **LLM Prompt Optimization** — Fine-tuned Mistral-7B (LoRA), 50% token reduction
 
-### 📫 Contact
-Email: aarushpandey820@gmail.com
+---
 
-Portfolio: [aarushpandey.dev](https://aarushpandey.dev/)
+### 🤝 Open Source
 
-GitHub: @Hadar01
-![](https://komarev.com/ghpvc/?username=Hadar01)
+| Repo | Contribution | Status |
+|------|-------------|--------|
+| [Qiskit/qiskit](https://github.com/Qiskit/qiskit/pull/15832) | PEP 484 type annotations across 12 transpiler passes | 🔄 Under Review |
+| [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) | Security fix: subprocess shell injection + bare except + test coverage | ✅ Merged |
 
-## 🐍 My Contribution Snake
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hadar01/Hadar01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hadar01/Hadar01/output/github-contribution-grid-snake.svg">
-  <img alt="Hadar01's github contribution snake" src="https://raw.githubusercontent.com/Hadar01/Hadar01/output/github-contribution-grid-snake.svg">
-</picture>
+### ⚛️ Quantum Stack
+`Qiskit` `Qulacs` `QAOA` `VQE` `QUBO` `Ising Hamiltonians` `Circuit Cutting` `ZNE` `D-Wave Ocean SDK`
+
+### 🤖 ML Stack  
+`PyTorch` `TensorFlow` `Mistral-7B` `LoRA/QLoRA` `LangChain` `RAG` `FastAPI` `ChromaDB`
+
+---
+
+### 🏆 Highlights
+- 🥇 **QGSS 2025 Excellent Badge** — Qiskit Global Summer School, top ~5% globally
+- 🏆 **1st Place** — 24-hour solo coding hackathon
+- 📜 **6 FDPs** on Quantum Computing by IITs & NITs under MeitY/DST-NQM
+
+---
+
+### 📬 Contact
+**Email:** aarushpandey820@gmail.com  
+**LinkedIn:** [linkedin.com/in/aarushpandeyy](https://linkedin.com/in/aarushpandeyy)  
+**Portfolio:** [aarushpandey.dev](https://aarushpandey.dev)
