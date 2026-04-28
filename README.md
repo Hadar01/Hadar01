@@ -17,7 +17,7 @@ Qiskit Advocate @IBM · B.Tech CSE '26 · GATE CS 2026 Qualified
 
 | Repo | Contribution | Status |
 |------|-------------|--------|
-| [Qiskit/qiskit](https://github.com/Qiskit/qiskit/pull/15832) | PEP 484 type annotations across 12 transpiler passes | 🔄 Under Review |
+| [Qiskit/qiskit](https://github.com/Qiskit/qiskit/pull/15832) | PEP 484 type annotations across 12 transpiler passes | ✅ Merged |
 | [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) | Security fix: subprocess shell injection + bare except + test coverage | ✅ Merged |
 | [google/cirq](https://github.com/quantumlib/Cirq/) | Fix typos, grammar, and capitalization in QIS docstrings | ✅ Merged |
 
