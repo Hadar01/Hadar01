@@ -1,20 +1,19 @@
 # Aarush Pandey — @Hadar01
-
 **Quantum Computing Researcher & ML Engineer**  
 Qiskit Advocate @IBM · B.Tech CSE '26 · GATE CS 2026 Qualified
 
 ---
 
 ### 🔬 What I'm working on
-
-- **Uncertainty Quantification in Medical Imaging** — Calibration under distribution shift, CheXpert dataset, ResNet-50 + MC Dropout + temperature scaling (ECE/NLL/Brier Score)
+- **Uncertainty Quantification in Medical Imaging** — Calibration under distribution shift, CheXpert dataset, ResNet-50 + MC Dropout + temperature scaling (ECE/NLL/Brier Score); submitted to IEEE INDISCON
+- **SonoDiNoV2** — Geometry-aware, pseudo-label guided multi-task ultrasound model; accepted at MICCAI 2026 workshop (FoundUS challenge)
+- **CLEAR-EC Grand Challenge** — Corneal endothelium segmentation via Cellpose-SAM fine-tuning + conformal-style uncertainty quantification
 - **Quantum Supply Chain Optimizer** — QAOA, ZNE, Circuit Cutting on Fujitsu FX700 (64+ qubits)
 - **LLM Prompt Optimization** — Fine-tuned Mistral-7B (LoRA), 50% token reduction
 
 ---
 
 ### 🤝 Open Source
-
 | Repo | Contribution | Status |
 |------|-------------|--------|
 | [Qiskit/qiskit](https://github.com/Qiskit/qiskit/pull/15832) | PEP 484 type annotations across 12 transpiler passes | ✅ Merged |
@@ -32,6 +31,7 @@ Qiskit Advocate @IBM · B.Tech CSE '26 · GATE CS 2026 Qualified
 ---
 
 ### 🏆 Highlights
+- 🎓 **MICCAI 2026 Workshop Acceptance** — SonoDiNoV2, multi-task ultrasound foundation model
 - 🥇 **QGSS 2025 Excellent Badge** — Qiskit Global Summer School, top ~5% globally
 - 🏆 **1st Place** — 24-hour solo coding hackathon
 - 📜 **6 FDPs** on Quantum Computing by IITs & NITs under MeitY/DST-NQM
